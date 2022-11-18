@@ -1,4 +1,4 @@
-"smiles,clogP,qed,SAS
+smiles,clogP,qed,SAS
 "Nc(n4)c(n3)c(nc4)n(c3)[C@H](O1)[C@H](O)[C@H](O2)[C@@H](COP(O)(=O)2)1",-0.8174,0.565067144,4.350925833
 "OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H](O)C(OC(=O)C=Cc(c2)c(O)ccc2)1",-1.2515,0.341825806,3.629753592
 "OC[C@@H](O1)[C@@H](O4)[C@@H](OP(O)(=O)4)[C@@H]1n(c3)c(n2)c(n3)c(N)nc2",-0.8174,0.595072045,4.330154369
